@@ -1,0 +1,41 @@
+.checkbox {
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+}
+
+.checkbox_checker {
+  margin-right: 1rem;
+}
+
+.checkbox_wallet_connect {
+  margin-top: 1rem;
+}
+
+.email_form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.email_form_row {
+  display: flex;
+  flex-direction: row;
+  margin: 0.5rem;
+}
+
+.email_form_row label {
+  width: 10rem;
+}
+
+.email_form_row input {
+  color: black;
+}
+
+.email_form_button {
+  background-color: blanchedalmond;
+  color: black;
+  width: 10rem;
+  border-radius: 1rem;
+}

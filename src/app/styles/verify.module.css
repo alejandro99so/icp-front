@@ -1,0 +1,19 @@
+.main_verify {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main_verify h1 {
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+
+.text_end {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 1rem;
+}
